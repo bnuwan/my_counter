@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "573708915211",
+    "project_id": "mycounter123-77622",
+    "storage_bucket": "mycounter123-77622.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:573708915211:android:7b51dc8d9e938009f22d0e",
+        "android_client_info": {
+          "package_name": "com.example.myCounter123"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "573708915211-evcj29l28j9n92f1362se9o7a98n1ejr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHN-QzlMq8nZdvTMRWvj89AgcewUKjMzI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "573708915211-evcj29l28j9n92f1362se9o7a98n1ejr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "573708915211-eldd4unfttavqbsjgev1ue13h10iaumg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.myCounter123"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
